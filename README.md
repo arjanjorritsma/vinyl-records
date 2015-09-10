@@ -1,4 +1,3 @@
-# vinyl-records
+# My Vinyl Record Collection
 vinyl-records
 
-My Vinyl Record collection
