@@ -32,6 +32,11 @@
 			<artifactId>postgresql</artifactId>
 			<version>9.4-1202-jdbc42</version>
 		</dependency>
+		<dependency>
+            <groupId>org.flywaydb</groupId>
+            <artifactId>flyway-core</artifactId>
+            <version>3.2.1</version>
+        </dependency>
 		<!-- Logging -->
 		<!-- <dependency> <groupId>org.springframework.boot</groupId> <artifactId>spring-boot-starter-log4j</artifactId> 
 			</dependency> -->
