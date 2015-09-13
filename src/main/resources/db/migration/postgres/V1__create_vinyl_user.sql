@@ -1,0 +1,1 @@
+CREATE USER vinyl PASSWORD 'vinyl';
